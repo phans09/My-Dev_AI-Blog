@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: My Dev AI Blog
 description: Sharing what I learn
+# Load custom CSS on top of theme
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: /assets/css/style.css
