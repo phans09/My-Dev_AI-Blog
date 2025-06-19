@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "Welcome to My Dev AI Blog"
 date: 2025-06-18
 ---
 
-Today I set up my GitHub Pages blog to share my technical learning journey!
-
-## What I learned
-- How to use `_config.yml` to set a theme
-- How to use `index.md` as a homepage
-- How Jekyll builds pages from markdown files
+**Hello world!**
+This is my first post. I'm excited to start sharing my journey in AI, development, and open-source projects.
+Stay tined for deep dives, tutorials, and insights!
