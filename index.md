@@ -1,13 +1,19 @@
 ---
-layout: default
-title: Welcome
+layout: home
+title: Welcome to My Dev AI Blog
 ---
 
-<img src="https://raw.githubusercontent.com/rajtilakls2510/public-assets/main/ai-banner.jpg" alt="AI learning banner" style="width:100%; border-radius:10px; margin-bottom: 20px;" />
+# 👋 Welcome!
 
-# 👋 Welcome to My Dev Blog
+Hi! I’m **Sadina**, and this is my blog where I explore AI, programming, and tools that make dev life easier.
 
-I’m learning in public — sharing lessons, debugging stories, and AI experiments.
+**Topics I cover**:
+- Large Language Models
+- AI Automation
+- GitHub & Dev Workflows
+- My personal projects
+
+👉 Check out the latest posts below!
 
 ## ✍️ Recent Posts
 - [My First Post](posts/2025-06-18-my-first-post.md)
