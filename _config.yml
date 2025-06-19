@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: My Dev AI Blog
-description: Sharing what I learn
+description: Sharing my journey through AI and development
 # Load custom CSS on top of theme
 defaults:
   -
@@ -8,3 +8,4 @@ defaults:
       path: ""
     values:
       css: /assets/css/style.css
+header: image: /assets/images/banner.jpg
