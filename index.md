@@ -3,6 +3,9 @@ layout: default
 title: Welcome to My Dev AI Blog
 ---
 ![Banner](/my-dev_ai-blog/assets/images/banner.jpg)
+<p align="center">
+  <img src="/my-dev_ai-blog/assets/images/banner.jpg" width="100%" alt="AI Banner">
+</p>
 # 👋 Welcome!
 
 Hi! I’m **Sadina**, and this blog documents my journey learning AI, building projects, and exploring tools.
