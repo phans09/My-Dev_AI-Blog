@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to My Dev AI Blog"
 date: 2025-06-18
+categories: AI learning
 ---
 
 **Hello world!**
