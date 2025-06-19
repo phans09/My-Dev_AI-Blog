@@ -1,6 +1,10 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+baseurl: "/my-dev_ai-blog"
+url: "https://phans09.github.io
+# Optional - tweak colors
+color_scheme: light
 title: My Dev AI Blog
-description: Sharing my journey through AI and development
+description: Sharing my journey through AI, coding, development and learning. 
 # Load custom CSS on top of theme
 defaults:
   -
